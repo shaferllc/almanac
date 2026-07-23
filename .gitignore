@@ -2,3 +2,5 @@
 .DS_Store
 AppIcon.icns
 AppIcon.iconset/
+
+dist/
