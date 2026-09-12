@@ -1,0 +1,11 @@
+{
+  "name" : "almanac",
+  "presets" : {
+    "dev" : "swift run"
+  },
+  "processes" : {
+    "swift run" : {
+      "command" : "swift run"
+    }
+  }
+}
